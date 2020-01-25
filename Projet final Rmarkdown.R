@@ -56,7 +56,7 @@ les données sont au format CSV:
 
 ```{r}
 library(readr)
-combined_data <- read_csv("C:/Users/amara/Desktop/Rstudio projet/mcgurk/données/combined_data.csv")
+combined_data <- read_csv("https://raw.githubusercontent.com/maouche-fahima/Projet-Final/master/combined_data.csv")
 View(combined_data)
 ```
 
