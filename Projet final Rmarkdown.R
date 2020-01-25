@@ -45,12 +45,6 @@ Objet: l'identifiant du participant
 Groupe: si ce participant était dans le groupe musicien ou non musicien
 
 
-rajouter du blablabla.............
-parler de notre jeu de donnée 
-combien d'observation  combiend de variable*
-type de variable 
-pourquoi on a choisie ces variable 
-
 ##importation des données sur Rstudio:
 les données sont au format CSV:  
 
